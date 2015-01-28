@@ -1,0 +1,6 @@
+{
+    "directories": ["src/"],
+    "main": "stalefish",
+    "output": "stalefish.phar",
+    "stub": true
+}
